@@ -1,0 +1,6 @@
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\bin\Debug\labtask3_P8.exe.config
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\obj\Debug\labtask3_P8.csprojResolveAssemblyReference.cache
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\bin\Debug\labtask3_P8.exe
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\bin\Debug\labtask3_P8.pdb
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\obj\Debug\labtask3_P8.exe
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\labtask3_P8Sln\labtask3_P8\obj\Debug\labtask3_P8.pdb
