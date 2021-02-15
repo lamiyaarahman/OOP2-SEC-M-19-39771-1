@@ -1,0 +1,6 @@
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\bin\Debug\Array.exe.config
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\bin\Debug\Array.exe
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\bin\Debug\Array.pdb
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\obj\Debug\Array.exe
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Array_Sln\Array\obj\Debug\Array.pdb
