@@ -1,0 +1,3 @@
+c:\users\lamia\onedrive\documents\visual studio 2013\Projects\Labtask_5Sln\Labtask_5\bin\Debug\Labtask_5.exe.config
+C:\Users\Lamia\onedrive\documents\visual studio 2013\Projects\Labtask_5Sln\Labtask_5\obj\Debug\Labtask_5.csprojResolveAssemblyReference.cache
+F:\C#\CODE\Labtask_5Sln\Labtask_5\bin\Debug\Labtask_5.exe.config
