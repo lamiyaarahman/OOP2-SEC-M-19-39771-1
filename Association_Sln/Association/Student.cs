@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Account_System
+namespace Association
 {
-    class Program
+    class Student
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
